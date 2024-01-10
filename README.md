@@ -4,7 +4,7 @@
 
 🌐 Keen on working with technologies that drive positive change, I am particularly interested in projects aimed at improving and optimizing software for the betterment of society. From creating intuitive user interfaces to tackling complex problems with elegant code, I am excited about the endless possibilities that software development offers.
 
-🛠️ Proficient in MongoDB, ExpressJS, React, NodeJS (MERN stack), Django, Python, Javascript, Git, SQL, HTML, CSS, I am ready to collaborate with like-minded individuals and teams to bring ideas to life. Let's build something amazing together!
+🛠️ Proficient in Java, MongoDB, ExpressJS, React, NodeJS (MERN stack), Django, Python, Javascript, Git, SQL, HTML, CSS, I am ready to collaborate with like-minded individuals and teams to bring ideas to life. Let's build something amazing together!
 
 🤝 Open to networking, learning from experienced developers, and contributing to projects that align with my passion for using technology to make a meaningful impact. Excited to embark on this coding journey and create software that truly helps and inspires people.
 
